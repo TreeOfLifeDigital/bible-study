@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/03-ministry/website/testimony/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# Testimony
-
 For many years, I worked and looked like success but did not have true joy in my life, Why? Because I was a functioning alcoholic which led me down a path to drug abuse and self-destruction which ended in 2010 when I had lost everything; except my continuing desire to cover up my emptiness with alcohol.
 
 Fast forward to 2023, (and only because of my health) I stopped drinking alcohol and begin to take care of myself. The good news is, six months later I had lost 40 pounds and was feeling great physically, but the bad news is I still had an un-acknowledged emptiness in my life.
