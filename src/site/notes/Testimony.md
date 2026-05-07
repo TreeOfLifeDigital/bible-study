@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/testimony/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/testimony/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
+
+# Testimony
 
 For many years, I worked and looked like success but did not have true joy in my life, Why? Because I was a functioning alcoholic which led me down a path to drug abuse and self-destruction which ended in 2010 when I had lost everything; except my continuing desire to cover up my emptiness with alcohol.
 
